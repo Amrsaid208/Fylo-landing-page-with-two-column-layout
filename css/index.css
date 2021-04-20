@@ -225,7 +225,7 @@ footer img {
     }
 
 .container {
-    min-width: 430px;
+    min-width: 480px;
     display: flex;
     padding: 30px;
     max-width: 100%;
