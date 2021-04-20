@@ -278,6 +278,13 @@ footer ul{
 .icons{
     align-self: center;
 }
+    nav  a img.logo{
+    max-width: 160px;
+}
+nav ul li {
+    min-width: fit-content;
+    margin-right:15px ;
+}
     }
 
     
