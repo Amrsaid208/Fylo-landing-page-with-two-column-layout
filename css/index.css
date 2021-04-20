@@ -223,6 +223,9 @@ footer img {
         margin-bottom: 5px;
     
     }
+    .curve{
+        min-width:480px;
+    }
 
 .container {
     min-width: 480px;
